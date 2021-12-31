@@ -18,7 +18,11 @@
    6. A LCD screen
    7. Some resistors
 2. Follow the circuit diagram (I have not added this yet but will do soon.)
-3. Add the code to the arduino.<br>
+3. Build a setup depending on your case. For me I had attached the servo to a plastic bottle with holes in its cap which turned and watered the plant.
+4. Connect the Arudino to a computer.
+5. Copy the code to the Arduino IDE (please install it if you don't have it)
+6. Upload the code to the Arduino.
+7. You may have to optimize the code and other things to fit your case. <br>
 *I will try to make better documentation soon*
 
 **THANK YOU**
